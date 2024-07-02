@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\example-task\\WebSocket-Multi-Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14038B41-1C15-491A-BF89-302E90E0AD33}|WebSocket-Multi-Server\\WebSocket-Multi-Server.csproj|c:\\example-task\\websocket-multi-server\\websocket-multi-server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14038B41-1C15-491A-BF89-302E90E0AD33}|WebSocket-Multi-Server\\WebSocket-Multi-Server.csproj|solutionrelative:websocket-multi-server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\example-task\\WebSocket-Multi-Server\\WebSocket-Multi-Server\\Program.cs",
+              "RelativeDocumentMoniker": "WebSocket-Multi-Server\\Program.cs",
+              "ToolTip": "C:\\example-task\\WebSocket-Multi-Server\\WebSocket-Multi-Server\\Program.cs",
+              "RelativeToolTip": "WebSocket-Multi-Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:08:43.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
